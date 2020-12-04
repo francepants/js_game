@@ -1,0 +1,22 @@
+{
+  "name": "js_game",
+  "version": "1.0.0",
+  "description": "a basic game built with javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/francepants/js_game.git"
+  },
+  "author": "Franceline Casanas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/francepants/js_game/issues"
+  },
+  "homepage": "https://github.com/francepants/js_game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
